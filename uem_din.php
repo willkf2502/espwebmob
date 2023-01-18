@@ -12,7 +12,7 @@
         <div class="col-md-12 row">
 
             <div class="col-md-2 mx-1 mb-4 mt-2">
-                <img src="http://www.din.uem.br/selo_capes_d.jpeg/@@images/5f82b500-a647-4d81-9bd9-e082f9ed3eda.jpeg" alt="Mestrado e Doutorado em Ciência da Computação - Capes Nota 4" width="130px" >
+                <img src="assets/img/capes.jpeg" alt="Mestrado e Doutorado em Ciência da Computação - Capes Nota 4" width="130px" >
             </div>
 
             <div class="col-md-9 mx-1 mb-4 mt-4">
